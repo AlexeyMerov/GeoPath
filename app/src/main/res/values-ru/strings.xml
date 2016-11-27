@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_btn_description">Закрыть</string>
+    <string name="from_hint">Откуда…</string>
+    <string name="loading">Загрузка…</string>
+    <string name="menu_str_clear_history">Очистить историю</string>
+    <string name="menu_str_clear_map">Очистить карту</string>
+    <string name="menu_str_history">История</string>
+    <string name="middle_btn">Добавить промежуточную точку</string>
+    <string name="middle_hint">Промежуточная точка…</string>
+    <string name="to_hint">Куда…</string>
+    <string name="start_btn">Начать</string>
+    <string name="connection_str">Соединение…</string>
+    <string name="history_str">История</string>
+    <string name="toast_warning_while_loading">Подождитие окончания загрузки</string>
+    <string name="toast_choose_start_point">Выберите пункт отправления</string>
+    <string name="toast_choose_destination_point">Выберите пункт назначения</string>
+    <string name="toast_over_three_middle_points">Можно добавить только 3 промежуточных точки</string>
+    <string name="toast_empty_history">История пустая!</string>
+    <string name="metric_system_meters">м</string>
+    <string name="metric_system_kilometers">км</string>
+    <string name="cancel_alert_dialog_button">Отмена</string>
+    <string name="menu_button">Меню</string>
+</resources>
